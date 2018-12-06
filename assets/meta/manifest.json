@@ -1,7 +1,7 @@
 {
   "name": "Cloud Player",
   "short_name": "Cloud Player",
-  "start_url": "https://cloud-player.io",
+  "start_url": "https://yayanheeh.github.io/music",
   "background_color": "#ff3600",
   "display": "standalone",
   "icons": [
